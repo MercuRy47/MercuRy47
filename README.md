@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wanasart Nianthasat
 ===========================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=B800FF&width=435&lines=Student+%F0%9F%93%9A;Front-End+Developer+%F0%9F%92%BB;BUU+SE%2313+%F0%9F%8E%93)](https://git.io/typing-svg)
-SE#13 Front-End Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=B800FF&width=435&height=30&lines=Student+%F0%9F%93%9A;Front-End+Developer+%F0%9F%92%BB;BUU+SE%2313+%F0%9F%8E%93)](https://git.io/typing-svg)
 -------------------------
 
 <!-- สวัสดีครับผมชื่อว่า ซูโม่ อายุ 18 ปี พึ่งมีความสนใจในการเขียนโปรแกรมเมื่อปีที่แล้ว ตอนนี้มีความสนใจด้าน Front-End เป็นพิเศษ -->

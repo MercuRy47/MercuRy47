@@ -6,7 +6,7 @@ SE#13 Front-End
 
 สวัสดีครับผมชื่อว่า ซูโม่ อายุ 18 ปี พึ่งมีความสนใจในการเขียนโปรแกรมเมื่อปีที่แล้ว ตอนนี้มีความสนใจด้าน Front-End เป็นพิเศษ
 
-* 🖥️  See my portfolio at [MercuRy47](http://https://github.com/MercuRy47)
+* 🖥️  See my portfolio at [MercuRy47](https://github.com/MercuRy47)
 * ✉️  You can contact me at [wanasartnianthasat@gmail.com](mailto:wanasartnianthasat@gmail.com)
 
 <a href="https://www.github.com/MercuRy47" target="_blank" rel="noreferrer"><img

@@ -8,8 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [MercuRy47](https://github.com/MercuRy47)
 * ✉️  You can contact me at [wanasartnianthasat@gmail.com](mailto:wanasartnianthasat@gmail.com)
 
-<a href="https://www.github.com/MercuRy47" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MercuRy47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wanasart.w3spaces.com/)
 
 
 ### Aptitude

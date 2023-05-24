@@ -5,8 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=B800FF&width=435&height=30&lines=Student+%F0%9F%93%9A;Front-End+Developer+%F0%9F%92%BB;BUU+SE%2313+%F0%9F%8E%93)](https://git.io/typing-svg)
 -------------------------
 
-<!-- สวัสดีครับผมชื่อว่า ซูโม่ อายุ 18 ปี พึ่งมีความสนใจในการเขียนโปรแกรมเมื่อปีที่แล้ว ตอนนี้มีความสนใจด้าน Front-End เป็นพิเศษ -->
-
 * 🖥️  See my portfolio at [MercuRy47](https://github.com/MercuRy47)
 * ✉️  You can contact me at [wanasartnianthasat@gmail.com](mailto:wanasartnianthasat@gmail.com)
 

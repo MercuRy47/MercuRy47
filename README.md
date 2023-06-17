@@ -19,4 +19,3 @@
 
 <p align="left"> <a href="https://www.facebook.com/wanasart.nianthasat" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="32" height="32" /></a> <a href="https://www.github.com/MercuRy47" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/wns_nts" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="32" height="32" /></a></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MercuRy47&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

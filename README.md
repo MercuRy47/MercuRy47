@@ -10,8 +10,14 @@
 
 
 ### Skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23080808.svg?style=for-the-badge&logo=Figma&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-%23080808.svg?style=for-the-badge&logo=Unity&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+
+### Learning
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7E025.svg?style=for-the-badge&logo=javascript&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.JS-%2366B44F.svg?style=for-the-badge&logo=Node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23383838.svg?style=for-the-badge&logo=Express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%23469F3F.svg?style=for-the-badge&logo=MongoDB&logoColor=white) ![React](https://img.shields.io/badge/React-%2366DBFB.svg?style=for-the-badge&logo=React&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%237A54BB.svg?style=for-the-badge&logo=Redux&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23080808.svg?style=for-the-badge&logo=Next.js&logoColor=white)
+
+
+
 
 
 ### Socials

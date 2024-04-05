@@ -22,7 +22,7 @@
 
 ### Portfolio
 #### Year 1 / 66
-- **The Curse of Sacred Gems** [Download](https://drive.google.com/drive/folders/18yohTfP63w-eVBCN1L3os3irwmvMDIld?usp=sharing)
+- **The Curse of Sacred Gems (Windows, macOS | 140 MB)** [Download](https://drive.google.com/drive/folders/18yohTfP63w-eVBCN1L3os3irwmvMDIld?usp=sharing)
 
 
 -------------------------

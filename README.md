@@ -24,6 +24,9 @@
 #### Year 1 / 66
 - **The Curse of Sacred Gems** (Windows, macOS | 140 MB) [Download](https://drive.google.com/drive/folders/18yohTfP63w-eVBCN1L3os3irwmvMDIld?usp=sharing)
 
+#### NSC 26 / 2024
+- **Vocabulary Strategy** (Windows | 151 MB) [Website](https://vocabulary-strategy-web-site.vercel.app/)
+
 
 -------------------------
 ### Socials
